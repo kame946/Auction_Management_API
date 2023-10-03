@@ -1,0 +1,5 @@
+/env/
+*.sqlite
+*.pyc
+__pycache__/
+*/migrations/
